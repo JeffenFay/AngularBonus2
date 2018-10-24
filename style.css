@@ -1,0 +1,43 @@
+.btn{
+  margin-left: 35rem;
+  margin-bottom: 8rem;
+  margin-top: 2rem;
+}
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.closebtn:hover {
+    color: black;
+}
+.alert {
+    padding: 20px;
+    background-color: #f44336;
+    color: white;
+}
+h1{
+  padding-left: 1rem;
+  margin-top: 2rem;
+  background-color: white;
+  height: 3.3rem;
+}
+#movieName{
+  display: inline-block;
+  font-style: italic;
+  margin:0.5rem;
+}
+#flavorText{
+  margin-left: 1rem;
+  font-size: 1.6rem;
+  color: white;
+  background-color: black;
+}
+body{
+  background-image: linear-gradient(to right, #ffffff, #333333);
+}
